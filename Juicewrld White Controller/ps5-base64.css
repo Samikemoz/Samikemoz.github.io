@@ -396,7 +396,7 @@
   height: .604166667in; 
 } 
 [class~=custom] [class~=touchpad][class~=pressed] {     
-  background: url('image11.png'); 
+  background: url('image11.gif'); 
 } 
 [class~=custom] [class~=face][class~=down][class~=pressed] {     
   transform: rotate(-90deg); 
@@ -813,7 +813,7 @@
   height: .604166667in; 
 }
 [class~=custom] [class~=touchpad][class~=pressed] { 
-  background: url('image23.png');
+  background: url('image23.gif');
 }
 [class~=custom] [class~=face][class~=down][class~=pressed] {
   transform: rotate(-90deg);
