@@ -396,7 +396,7 @@
   height: .604166667in; 
 } 
 [class~=custom] [class~=touchpad][class~=pressed] {     
-  background: url('image11.gif'); 
+  background: url('image11.png'); 
 } 
 [class~=custom] [class~=face][class~=down][class~=pressed] {     
   transform: rotate(-90deg); 
