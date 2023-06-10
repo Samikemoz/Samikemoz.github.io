@@ -414,7 +414,7 @@
   left: 8.75pc; 
 } 
 [class~=controller][class~=custom] {     
-  background: url('image12.png'),url('image13.png'); 
+  background: url('image12.png'),url('image13.gif'); 
 }
 [class~=controller][class~=custom] {     
   height: 637.5pt; 
